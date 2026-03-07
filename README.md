@@ -1,1 +1,1 @@
-![Terminal Style Presentation](https://github.com/user-attachments/assets/6d400494-c21c-44c3-98c3-75ed2d923e16)
+<img width="960" height="540" alt="Terminal Style Presentation" src="https://github.com/user-attachments/assets/a68a976f-cbfa-42ca-a6df-d49e50806dcf" />
